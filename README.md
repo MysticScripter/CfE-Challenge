@@ -1,5 +1,5 @@
 # CfE-Challenge
-This is a simple web project built using HTML and CSS as a solution for a challenge run by Junior Achievers Kenya between 6th-8th September 2021
+This is a basic website that aims to not only increase awareness of the existence of an SME(Hair Studio) but also acts as an advertisement agent for the SME’s products service.
 
 
-To view a working page go to https://iview.netlify.app/
+To view the hosted page go to https://iview.netlify.app/
